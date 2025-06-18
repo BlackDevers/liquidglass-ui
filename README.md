@@ -1,2 +1,2 @@
-# liquidglass-ui
+# Liquid Glass | UX/UI Component
 Web Component
